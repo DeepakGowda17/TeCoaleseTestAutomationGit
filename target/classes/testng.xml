@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Te Coalese Test Automation Test Suite">
+
+	<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporter" />
+	</listeners>
+
+
+	<test name="Te Coalese Test Cases">
+		<classes>
+			<class name="com.tecoaleseqa.testcases.LoginPageTest"></class>
+			<class name="com.tecoaleseqa.testcases.HomePageTest"></class>
+			<class name="com.tecoaleseqa.testcases.UsersPageTest"></class>
+
+		</classes>
+	</test>
+</suite>

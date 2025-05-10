@@ -1,0 +1,5 @@
+# Created at 2025-05-10T15:03:15.828
+Boot Manifest-JAR contains absolute paths in classpath 'H:\FrameWorkCreation\TeCoalese\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

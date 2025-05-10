@@ -1,0 +1,7 @@
+com\tecoalese\qa\pages\UsersPage.class
+com\tecoalese\qa\pages\LoginPage.class
+com\tecoalese\qa\pages\HomePage.class
+com\tecoalese\qa\base\TestBase.class
+com\tecoslese\qa\util\WebEventListener.class
+com\qa\ExtentReportListener\ExtentReporter.class
+com\tecoslese\qa\util\TestUtil.class
